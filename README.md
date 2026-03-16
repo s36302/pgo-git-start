@@ -10,3 +10,10 @@ The following commands were practiced during this exercise to maintain proper ve
 2. git status: Used to check the state of the working directory and staging area
 3. git add: Used to prepare files for a commit
 4. git commit: Used to record changes to the repository history
+5. git remote add origin: Used to connect the local repository to the remote GitHub server.
+6. git push: Used to send local commits to the public GitHub repository
+7. git checkout -b: Used to create and switch to new feature branches
+8. git merge: Used to integrate changes from feature branches into the main branch.
+
+Author 
+Fiodar Siamashka
